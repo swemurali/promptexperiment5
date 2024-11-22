@@ -1,7 +1,7 @@
 EXP-05
 DATE	Scenario-Based Report Development Utilizing Diverse 
 Prompting Techniques
-                                                                                                                         SUWETHA M (212221230112)
+   SUWETHA M (212221230112)
 
 Aim: The aim of this experiment is to develop a predictive maintenance system that uses AI to analyze data from manufacturing equipment in order to predict failures and optimize maintenance schedules. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation.
 General Design Instructions
